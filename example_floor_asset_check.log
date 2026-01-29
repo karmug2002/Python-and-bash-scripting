@@ -1,0 +1,20 @@
+-------------------------------------------------------START-------------------------------------------------------------
+[SKIP   ] Product Serial Check Assembled Hostname: DSK001, BayNumber: 001
+[MATCHED] Monitor Serial: 230PN7897APB Hostname: DSK001, BayNumber: 001
+[MATCHED] Mouse Lenovo in Baynumber: 001, Hostname: DSK001
+[MATCHED] keyboard Dell in Baynumber: 001, Hostname: DSK001
+[MATCHED] headset Voix in Baynumber: 001, Hostname: DSK001
+-------------------------------------------------------END---------------------------------------------------------------
+-------------------------------------------------------START-------------------------------------------------------------
+[FAILED ] Not Connected Hostname: DSK002, BayNumber: 002 
+-------------------------------------------------------END---------------------------------------------------------------
+-------------------------------------------------------START-------------------------------------------------------------
+[FAILED ] Not Connected Hostname: DSK003, BayNumber: 003 
+-------------------------------------------------------END---------------------------------------------------------------
+-------------------------------------------------------START-------------------------------------------------------------
+[MATCHED] Product Serial: PG011EVG Hostname: DSK004, BayNumber: 004
+[MATCHED] Monitor Serial: RKH32516ARGU Hostname: DSK004, BayNumber: 004
+[MATCHED] Mouse HP in Baynumber: 004, Hostname: DSK004
+[MATCHED] keyboard Lenovo in Baynumber: 004, Hostname: DSK004
+[MATCHED] headset Voix in Baynumber: 004, Hostname: DSK004
+-------------------------------------------------------END---------------------------------------------------------------
